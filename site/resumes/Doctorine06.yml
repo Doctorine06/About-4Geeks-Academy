@@ -1,0 +1,89 @@
+template: "online-cv"
+skin: "orange"
+
+basic_info:
+
+
+    first_name: Steven
+    last_name: Ferguson
+    
+    
+    motto: Yesterday is gone. Tomorrow is not promised so I rather live today and pray for a better moment.
+    
+    
+    focus: To become a great man.
+    
+    
+    summary: |
+      I am in my early twenties living in Georgia,USA. I am a father of two beautiful girls and they inspire me.
+      
+
+    
+   
+
+    
+    email: fergtheartist@gmail.com
+    # phone: 954 297 3940 
+    # website: asd.com 
+    linkedin: https://www.linkedin.com/in/steven-ferguson-b77a94190?original_referer=
+    
+    
+    github: Doctorine06
+    
+    
+    # stack-overflow: # Number/Username, e.g. 123456/alandoe
+
+    
+    languages:
+      - idiom: English
+        level: Native
+
+      - idiom: Spanish
+        level: Some Knowledge
+
+      - idiom: Patios
+        level: Beginning    
+
+
+    
+    interests:
+      - item: Writing Music
+
+      - item: Coding and Software Development
+
+      - item: Surviving
+
+
+
+experiences:
+    - role: Muscian
+      time: Present
+      company: Think Out Loud KC
+    
+      details: |
+          - recently applied to start Think Out Loud KC. It is pending it's trademark.
+
+
+
+          Your project portfolio
+projects:
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
+    assignments:
+      - title: Instagram with Bootstrap
+        link: "https://github.com/Doctorine06/desktop-tutorial"
+
+
+      - title: Terminal Challenge
+        link: "https://github.com/Doctorine06/Terminal-Challenge"
+
+skills:
+    toolset:
+      - name: Logic
+        level: 32%
+
+      - name: Garageband
+        level: 100%
